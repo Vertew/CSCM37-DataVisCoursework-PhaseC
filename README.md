@@ -7,8 +7,8 @@
 
 -   Have Pythons Vega Datasets installed (!pip install vega_datasets)
 
-(Both of these can be installed with one command: !pip install altair
-vega_datasets)
+    (Both of these can be installed with one command: !pip install altair
+    vega_datasets)
 
 -   Have Pandas installed (Altairs installation should come with Pandas
     by default)
