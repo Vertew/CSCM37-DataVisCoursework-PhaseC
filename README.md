@@ -1,4 +1,4 @@
-# Pre-Requisits
+# Pre-Requisites
 
 -   Have Python installed if using an editor (using Google Colab
     prevents the need for this)
@@ -17,12 +17,11 @@ vega_datasets)
 
 For the code to run, the data (.csv) files must be in the same directory as 
 the python notebook file. They should already be in the correct location unless 
-a web tool such as Colab is used, so simply launching the notebook from within 
-the directory it is contained should work.
+a web tool such as Colab is used, so simply launch the notebook from within 
+the folder it is contained.
 
-From there it's as simple as running the notebook file (PhaseCVisFinal.ipynb) 
-in sequential order from start to finish, and the visualisation will be displayed 
-at the bottom.
+As it is, the notebook has already been run and the visualisation can be found
+at the bottom. To rerun the code, simply run all cells in order.
 
 # Suitable ways to run/open the notebook include but are not limited to:
 
