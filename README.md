@@ -30,3 +30,9 @@ at the bottom. To rerun the code, simply run all cells in order.
 -   Jupyter Notebook (editor)
 -   Visual Studio (editor)
 -   IPython (editor)
+
+# Authors
+
+- Sam Tudberry
+- Yong Kien Lin
+- Joseph Henry
