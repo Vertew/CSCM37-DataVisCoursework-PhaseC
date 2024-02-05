@@ -1,3 +1,5 @@
+![Demo image of the visualisation](Visualization.png)
+
 # Pre-Requisites
 
 -   Have Python installed if using an editor (using Google Colab
